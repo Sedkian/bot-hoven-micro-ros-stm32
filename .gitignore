@@ -26,6 +26,7 @@
 Debug
 cmake-build-*
 *.launch
+build
 
 .idea
 .settings
